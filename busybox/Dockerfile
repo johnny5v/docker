@@ -1,2 +1,2 @@
 FROM busybox
-echo something > myfile
+RUN echo something > myfile
